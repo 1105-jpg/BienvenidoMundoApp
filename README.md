@@ -10,6 +10,7 @@ Aplicación Android de bienvenida con soporte multiidioma, multi-pantalla y grá
 - 🤖 **Robot Android**: Ícono vectorial escalable
 
 ## 🛠️ Tecnologías
+ 
 
 
 Proyecto Android Multi-language
