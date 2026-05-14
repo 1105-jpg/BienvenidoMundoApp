@@ -1,0 +1,53 @@
+# ==============================================
+#   .gitignore para proyecto Android
+# ==============================================
+
+# ---- Archivos de construcción ---------------
+*.iml
+.gradle/
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# ---- Archivos del módulo app ----------------
+app/build/
+app/release/
+app/debug/
+
+# ---- Gradle ---------------------------------
+gradle-wrapper.jar
+.gradletasknamecache
+
+# ---- Keystore (¡NUNCA subir al repo!) -------
+*.jks
+*.keystore
+keystore.properties
+release.properties
+
+# ---- NDK ------------------------------------
+obj/
+
+# ---- Sistema operativo ----------------------
+Thumbs.db
+.DS_Store
+$RECYCLE.BIN/
+
+# ---- IDE extras -----------------------------
+*.swp
+*.swo
+*~
+.vscode/
+*.orig
