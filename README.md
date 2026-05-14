@@ -1,3 +1,5 @@
+YULIANA 
+
 # 📱 Bienvenido Mundo App
 
 Aplicación Android de bienvenida con soporte multiidioma, multi-pantalla y gráficos nine-patch.
@@ -11,6 +13,7 @@ Aplicación Android de bienvenida con soporte multiidioma, multi-pantalla y grá
 
 ## 🛠️ Tecnologías
  
+
 
 
 Proyecto Android Multi-language
